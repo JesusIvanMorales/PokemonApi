@@ -12,11 +12,15 @@ En este ejercicio se busco hacer uso de la API de pokemon, para ello se implemen
 
 *Dependencias:*
 
+
 1- **@react-navigation/native**
-    El comando con el cual se descarga esta libreria es: **comando** y se puede conseguir en este sitio web **sitio**
+    El comando con el cual se descarga esta librería es: `npm install @react-navigation/native` y se puede conseguir más información en este sitio web: https://reactnavigation.org/docs/getting-started
+
 2- **@react-navigation/bottom-tabs**
-    El comando con el cual se descarga esta libreria es: **comando** y se puede conseguir en este sitio web **sitio**
+    El comando con el cual se descarga esta librería es: `npm install @react-navigation/bottom-tabs` y se puede conseguir más información en este sitio web: https://reactnavigation.org/docs/bottom-tab-navigator
+
 3- **@react-navigation/native-stack**
-    El comando con el cual se descarga esta libreria es: **comando** y se puede conseguir en este sitio web **sitio**
+    El comando con el cual se descarga esta librería es: `npm install @react-navigation/native-stack` y se puede conseguir más información en este sitio web: https://reactnavigation.org/docs/native-stack-navigator
+
 4- **react-native-safe-area-context**
-    El comando con el cual se descarga esta libreria es: **comando** y se puede conseguir en este sitio web **sitio**# CreateContextRepo
+    El comando con el cual se descarga esta librería es: `npm install react-native-safe-area-context` y se puede conseguir más información en este sitio web: https://github.com/th3rdwave/react-native-safe-area-context
